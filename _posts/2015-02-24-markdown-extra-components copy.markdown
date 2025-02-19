@@ -7,6 +7,7 @@ headerImage: false
 projecs: Brorder
 externalLink: pain.campingdesplages.com
 tag:
+hidden: false
 category: blog
 author: vladimir trois
 description: Création d'un site de gestion de produits
