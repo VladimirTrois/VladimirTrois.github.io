@@ -1,3 +1,37 @@
-theme: jekyll-theme-cayman
-title: Vladimir's homepage
-description:  List of projects
+# Site settings
+title: "Vladimir Trois"
+email: vladimir.trois@gmail.coom
+description: "Presentation website"
+baseurl: ""
+url: "https://vladimirtrois.github.io/"
+title_description: "Presentation website."
+title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+google_analytics: ""
+github_repository: https://github.com/VladimirTrois/vladimirtrois.github.io
+addthis_id: 
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: 
+github_username:  vladimirtrois
+instagram_username: 
+reddit_username: 
+linkedin_link: https://www.linkedin.com/in/vladimir-trois/
+google_plus_link: 
+stackoverflow_link: 
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: 
+footer_right: 
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
