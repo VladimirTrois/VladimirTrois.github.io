@@ -1,16 +1,15 @@
 ---
-title: "Markdown Extra Components"
+title: "Site de commande de pain"
 layout: post
-date: 2016-02-24 22:48
+date: 2025-01-01 00:00
 image: /assets/images/markdown.jpg
 headerImage: false
+projecs: Brorder
+externalLink: pain.campingdesplages.com
 tag:
-- markdown
-- components
-- extra
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: vladimir trois
+description: Création d'un site de gestion de produits
 ---
 
 ## Summary:
